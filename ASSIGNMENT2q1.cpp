@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    // two of these(_FLOAT and FLOAT) can be variable names
+//    output:
+//  Enter first number 2
+//  Enter second number and value for taking modulus 3 6
+//  0
 }
